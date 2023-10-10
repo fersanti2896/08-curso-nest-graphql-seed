@@ -21,3 +21,9 @@ npm run start:dev
 ```
 http://localhost:3000/graphql
 ```
+6. Ejecutar el `SEED` en con la `mutation` de `executeSeed`.
+```
+mutation Mutation {
+  executeSeed
+}
+```
